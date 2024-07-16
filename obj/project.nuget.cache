@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ojyCRRwJTLhxEEj/PdXH+8+m9gi3mC6UoG4EOi/8TLu05JZrWx5cdF7l18uatoNCGrP3Nwgh/nzXaje33xI0Sg==",
+  "dgSpecHash": "L/KNn85tAR5MaO+JTfjyIwGL4cIbzPXynJreEltnw+aArYPom5b9JJBxYc2xrn0TXoTGwOpuxmJPQCbTjSA33w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentication\\microsoft-entra-id-sql-authentication.csproj",
+  "projectFilePath": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentications\\microsoft-entra-id-sql-authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcChammas\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\MarcChammas\\.nuget\\packages\\azure.identity\\1.12.0\\azure.identity.1.12.0.nupkg.sha512",

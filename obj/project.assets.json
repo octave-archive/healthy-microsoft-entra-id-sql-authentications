@@ -1694,11 +1694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentication\\microsoft-entra-id-sql-authentication.csproj",
+      "projectUniqueName": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentications\\microsoft-entra-id-sql-authentication.csproj",
       "projectName": "microsoft-entra-id-sql-authentication",
-      "projectPath": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentication\\microsoft-entra-id-sql-authentication.csproj",
+      "projectPath": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentications\\microsoft-entra-id-sql-authentication.csproj",
       "packagesPath": "C:\\Users\\MarcChammas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentication\\obj\\",
+      "outputPath": "C:\\Users\\MarcChammas\\Desktop\\octave\\x-repository\\microsoft-entra-id-sql-authentications\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
