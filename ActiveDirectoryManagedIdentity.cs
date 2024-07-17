@@ -2,9 +2,9 @@
 using Azure.Identity;
 using Microsoft.Data.SqlClient;
 
-class Program
+class ProgramTest1
 {
-  static void Main(string[] args)
+  static void MainTest1(string[] args)
   {
     string database = "OctaveSUIVI";
     string query = "SELECT GETDATE() AS TimeOfQuery";
@@ -16,7 +16,6 @@ class Program
 
     // Create and open the SQL connection
 
-    SqlConnectionStringBuilder test =
     using (SqlConnection conn = new SqlConnection(connectionString))
     {
       conn.Open();
