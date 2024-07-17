@@ -1,2 +1,4 @@
 obj/Debug/
 obj/**
+bin/**
+bin/Debug/
