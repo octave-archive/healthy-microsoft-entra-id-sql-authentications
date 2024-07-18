@@ -16,7 +16,8 @@ class ProgramTest2
 
         string database = "Octave_CDL";
         string query = "SELECT GETDATE() AS TimeOfQuery";
-        string server = "octavesigma-devops-managed-mssql.5f77c52f95df.privatelink.database.windows.net";
+        string server = "octavesigma-devops-managed-mssql.public.5f77c52f95df.database.windows.net,3342";
+        // string server = "octavesigma-devops-managed-mssql.5f77c52f95df.privatelink.database.windows.net";
 
         var options = new InteractiveBrowserCredentialOptions
         {

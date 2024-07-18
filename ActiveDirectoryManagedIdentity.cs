@@ -9,7 +9,8 @@ class ProgramTest1
     string database = "OctaveSUIVI";
     string query = "SELECT GETDATE() AS TimeOfQuery";
     string clientId = "3ba5f7c0-6db8-47b0-adaa-ba0cd198f295";
-    string server = "octavesigma-devops-managed-mssql.5f77c52f95df.privatelink.database.windows.net";
+    string server = "octavesigma-devops-managed-mssql.public.5f77c52f95df.database.windows.net,3342";
+    // string server = "octavesigma-devops-managed-mssql.5f77c52f95df.privatelink.database.windows.net";
 
     // Define the connection string
     string connectionString = $"Server={server};Authentication=Active Directory Managed Identity;Encrypt=True;User Id={clientId};Database={database};TrustServerCertificate=True;";
